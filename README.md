@@ -29,9 +29,9 @@ Open the app in your browser
 After running the command, Streamlit will provide a local URL (usually http://localhost:8501).
 Open it in your browser to use the app.
 
-
-
-<img width="1196" height="512" alt="image" src="https://github.com/user-attachments/assets/496707c6-4049-4727-bfb6-05d9618696df" />
-
-
+<img src="https://github.com/user-attachments/assets/b02afe9a-b8b2-424c-b166-2e076b3008cc" width="40%">
+<img src="https://github.com/user-attachments/assets/dfa372d9-3d97-4f08-ac92-8b93928ac137" width="40%">
+<img src="https://github.com/user-attachments/assets/860a064f-89e5-4ee5-a164-45ddfb523c09" width="40%">
+<img src="https://github.com/user-attachments/assets/326e5812-d097-423a-a5a1-52125e501160" width="40%">
+<img src="https://github.com/user-attachments/assets/e66a5e84-4e55-4328-aa8c-d7fab678153b" width="40%">
 

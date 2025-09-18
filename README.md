@@ -31,12 +31,7 @@ Open it in your browser to use the app.
 
 
 
-<img width="1920" height="1080" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/71a2483d-6631-4498-8f87-9deeb771eb88" />
+<img width="1196" height="512" alt="image" src="https://github.com/user-attachments/assets/496707c6-4049-4727-bfb6-05d9618696df" />
 
-<img width="1920" height="1080" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/2f405977-a1b3-460e-8ab0-379858e64278" />
-
-<img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/a0aaace9-48d8-4e3f-87b4-3030e3eaf217" />
-
-<img width="1920" height="1080" alt="Screenshot (334)" src="https://github.com/user-attachments/assets/e96d8f89-52db-41dc-88c4-9a5a2e45ea8e" />
 
 
